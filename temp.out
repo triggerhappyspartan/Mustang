@@ -1,0 +1,140 @@
+1_______________________________________________________________________________________________________________________________
+ * C A S M O - 4E 1.00.02 REV:00 CREATED:2012/05/08 **STUDSVIK** EXECUTED:2017/10/26 18:48:41 STATEPOINT =      0 PAGE =       1  
+
+ This source code includes the following optional modules:
+      1 - CASMO-4E (CASMO-4 Extended Version).
+      2 - MxN extended multi-assembly module present.
+      3 - Hexagonal module present.
+      4 - CLU/AGR module present.
+      5 - PSC Tiff/PostScript capability active.
+      6 - Azimuthal depletion model present.
+      7 - FSS/FSC model present.
+      8 - Extra cards present.
+      9 - Pn higher order scattering model present.
+     10 - DIA Rotated water hole model present.
+     11 - CCR Extended C.R. model present.
+
+       LIST OF USER FILES
+       ******************
+ EXECUTABLE FILE               /cm/shared/apps/ncsu/CasmoSimulate/libexec/studsvik/casmo4e/casmo4e-u1.00.02/casmo4e.exe
+ NEUTRON DATA LIBRARY FILE     /cm/shared/apps/ncsu/CasmoSimulate/lib/studsvik/casmo4e/e60200
+ GAMMA DATA LIBRARY FILE       /cm/shared/apps/ncsu/CasmoSimulate/lib/studsvik/casmo4e/galb418
+ INPUT FILE                    temp.inp
+ OUTPUT LIST FILE              ./temp.out
+ CARD IMAGE FILE (SEG1)        ./temp.cax
+
+       LIST OF CASMO-4E INPUT CARDS (120 COLS MAX.)
+       ********************************************
+
+
+                1         2         3         4         5         6         7         8         9         0         1         2
+       123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+       TTL * EX 2.2
+       FIL 'lower_guide_assembly.res'
+       RES,'EX21', 0.5 1 1.5 2 2.5 3 3.5 4. 4.5 5. 5.5 6. 6.5 7. 7.5 8. 8.5 9. 9.5 10. 10.5 11. 11.5 12. 12.5 13.
+       13.5 14. 14.5 15. 15.5 16. 16.5 17. 17.5 18. 18.5 19. 19.5 20. 22.5 22.5 27.5 30.
+       VOI=0 40 70
+       NLI, STA
+       END
+
+       LIST OF CASMO-4E INPUT CARDS COMPLETE
+
+1_______________________________________________________________________________________________________________________________
+ * C A S M O - 4E 1.00.02 REV:00 CREATED:2012/05/08 **STUDSVIK** EXECUTED:2017/10/26 18:48:41 STATEPOINT =      1 PAGE =       2  
+ * 
+ * BURNUP =     0.000                                                                                 
+ TTL * EX 2.2                                                                                                              INPUT
+ FIL 'lower_guide_assembly.res'                                                                                            INPUT
+ RES,'EX21', 0.5 1 1.5 2 2.5 3 3.5 4. 4.5 5. 5.5 6. 6.5 7. 7.5 8. 8.5 9. 9.5 10. 10.5 11. 11.5 12. 12.5 13.                INPUT
+ 13.5 14. 14.5 15. 15.5 16. 16.5 17. 17.5 18. 18.5 19. 19.5 20. 22.5 22.5 27.5 30.                                         INPUT
+ VOI=0 40 70                                                                                                               INPUT
+ [FATAL ERROR] IN RES_INP         Check card *RES* Password=EX21/*/* not found on restart file.
+ Restart file:lower_guide_assembly.res
+ Segment=  1
+
+ Exposure requested on RES card=     0.500000     1.000000     1.500000     2.000000     2.500000     3.000000     3.500000     4.000000     4.500000     5.000000     5.500000     6.000000     6.500000     7.000000     7.500000     8.000000     8.500000     9.000000     9.500000    10.000000
+ Password requested on RES card=EX21/*/*            
+
+ Data on restart file
+ --------------------
+ Located: NRSV,NRSVB(IBUNDL)=  54  54
+   Password             Exposure
+   --------             --------
+   /171026/1846             0.000000
+   /171026/1846             0.100000
+   /171026/1846             0.500000
+   /171026/1846             1.000000
+   /171026/1846             1.500000
+   /171026/1846             2.000000
+   /171026/1846             2.500000
+   /171026/1846             3.000000
+   /171026/1846             3.500000
+   /171026/1846             4.000000
+   /171026/1846             4.500000
+   /171026/1846             5.000000
+   /171026/1846             5.500000
+   /171026/1846             6.000000
+   /171026/1846             6.500000
+   /171026/1846             7.000000
+   /171026/1846             7.500000
+   /171026/1846             8.000000
+   /171026/1846             8.500000
+   /171026/1846             9.000000
+   /171026/1846             9.500000
+   /171026/1846            10.000000
+   /171026/1846            10.500000
+   /171026/1846            11.000000
+   /171026/1846            11.500000
+   /171026/1846            12.000000
+   /171026/1846            12.500000
+   /171026/1846            13.000000
+   /171026/1846            13.500000
+   /171026/1846            14.000000
+   /171026/1846            14.500000
+   /171026/1846            15.000000
+   /171026/1846            15.500000
+   /171026/1846            16.000000
+   /171026/1846            16.500000
+   /171026/1846            17.000000
+   /171026/1846            17.500000
+   /171026/1846            18.000000
+   /171026/1846            18.500000
+   /171026/1846            19.000000
+   /171026/1846            19.500000
+   /171026/1846            20.000000
+   /171026/1846            20.500000
+   /171026/1846            21.000000
+   /171026/1846            21.500000
+   /171026/1846            22.000000
+   /171026/1846            22.500000
+   /171026/1846            23.000000
+   /171026/1846            23.500000
+   /171026/1846            24.000000
+   /171026/1846            25.000000
+   /171026/1846            27.500000
+   /171026/1846            30.000000
+   /171026/1846            30.000999
+
+ ABNORMAL TERMINATION. SEE ERROR MESSAGE(S) ABOVE.
+
+
+                   Neutron Calculation                         
+ Memory Use        Allocated       Used                         
+ A Array            14000000          0
+ B Array             4000000          0
+                    --------    -------
+ Total Words        18000000          0
+ Total Mwords           18.0        0.0
+ Total Mbytes           72.0        0.0
+
+ Run Started     (Date,Time):  2017/10/26   18:48:41  
+ Run Aborted     (Date,Time):  2017/10/26   18:48:42  
+ Total Wall Time Used       :               00:00:01
+ Total CPU  Time Used       :               00:00:00   CPU Utilization:    0%
+ Files:
+ Input                      :  temp.inp
+ Output                     :  ./temp.out
+ Card Image                 :  ./temp.cax
+ *********************************
+ *  CASMO-4E U S E R  A B O R T  *
+ *********************************

@@ -1,0 +1,2607 @@
+Average Lattice Cost:   17.6061454876
+Variance in lattice score:    0.467993588615
+Minimum lattice score: 16.2244388314  Maximum lattice score:  19.0797200989
+Average number of pins per assembly:  9Highest scoring Pin Lattice 
+0  
+0  0  
+0  7  3  
+0  0  0  2  
+0  2  1  1  0  
+0  0  2  0  0  0  
+0  0  6  0  0  0  4  
+0  2  0  0  3  2  2  5  
+0  0  2  0  4  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  5  3  
+0  8  7  5  0  
+0  0  4  0  0  0  
+0  0  8  0  0  7  8  
+0  7  7  7  5  5  7  4  
+0  0  7  0  4  1  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   17.8581736657
+Variance in lattice score:    0.395790395663
+Minimum lattice score: 16.9637050029  Maximum lattice score:  19.0848008418
+Average number of pins per assembly:  9Highest scoring Pin Lattice 
+0  
+0  0  
+0  7  3  
+0  0  0  2  
+0  2  1  1  0  
+0  0  2  0  0  0  
+0  0  6  0  0  0  4  
+0  2  0  0  3  2  2  5  
+0  0  2  0  4  3  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  8  5  
+0  0  8  8  
+0  7  3  6  0  
+0  4  8  0  0  0  
+0  0  3  0  0  3  7  
+0  8  7  5  4  5  6  4  
+0  0  8  0  2  7  0  7  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   18.0545630263
+Variance in lattice score:    0.375931499464
+Minimum lattice score: 17.0339941097  Maximum lattice score:  19.0848008418
+Average number of pins per assembly:  9Highest scoring Pin Lattice 
+0  
+0  0  
+0  7  3  
+0  0  0  2  
+0  2  1  1  0  
+0  0  2  0  0  0  
+0  0  6  0  0  0  4  
+0  2  0  0  3  2  2  5  
+0  0  2  0  4  3  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  5  4  
+0  0  6  7  
+0  8  8  4  0  
+0  4  2  0  0  0  
+0  0  4  0  0  2  6  
+0  6  3  6  5  3  6  0  
+0  0  7  0  7  6  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   18.2261253305
+Variance in lattice score:    0.353299986315
+Minimum lattice score: 17.1891067084  Maximum lattice score:  19.2012078421
+Average number of pins per assembly:  9Highest scoring Pin Lattice 
+0  
+0  0  
+0  7  3  
+0  0  0  2  
+0  2  1  1  0  
+0  0  2  0  0  0  
+0  0  2  0  0  0  4  
+0  2  0  0  3  2  2  5  
+0  0  2  0  4  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  5  
+0  0  4  6  
+0  0  0  6  0  
+0  6  6  0  0  0  
+0  0  0  0  0  7  2  
+0  6  2  6  8  1  6  3  
+0  0  0  0  2  7  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   18.3912260469
+Variance in lattice score:    0.320388854659
+Minimum lattice score: 17.4066200273  Maximum lattice score:  19.4847035235
+Average number of pins per assembly:  9Highest scoring Pin Lattice 
+0  
+0  0  
+0  7  3  
+0  0  0  2  
+0  2  1  0  0  
+0  0  2  0  0  0  
+0  0  2  0  0  0  7  
+0  8  0  0  3  2  2  5  
+0  0  2  0  2  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  5  1  
+0  0  4  0  
+0  8  3  3  0  
+0  6  8  0  0  0  
+0  0  6  0  0  8  8  
+0  7  8  2  4  0  3  5  
+0  0  3  0  7  8  0  8  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   18.5331530448
+Variance in lattice score:    0.300488263862
+Minimum lattice score: 17.4837734303  Maximum lattice score:  19.4847035235
+Average number of pins per assembly:  9Highest scoring Pin Lattice 
+0  
+0  0  
+0  7  3  
+0  0  0  2  
+0  2  1  0  0  
+0  0  2  0  0  0  
+0  0  2  0  0  0  7  
+0  8  0  0  3  2  2  5  
+0  0  2  0  2  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  6  6  
+0  0  0  2  
+0  6  2  3  0  
+0  5  2  0  0  0  
+0  0  6  0  0  1  7  
+0  5  2  4  3  8  0  0  
+0  0  5  0  7  6  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   18.6632087219
+Variance in lattice score:    0.305595053516
+Minimum lattice score: 17.7122993638  Maximum lattice score:  19.4847035235
+Average number of pins per assembly:  9Highest scoring Pin Lattice 
+0  
+0  0  
+0  7  3  
+0  0  0  2  
+0  2  1  0  0  
+0  0  2  0  0  0  
+0  0  2  0  0  0  7  
+0  8  0  0  3  2  2  5  
+0  0  2  0  2  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  8  8  
+0  0  7  2  
+0  7  5  1  0  
+0  7  8  0  0  0  
+0  0  8  0  0  3  1  
+0  5  7  1  8  3  2  7  
+0  0  1  0  6  4  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   18.8079034069
+Variance in lattice score:    0.274553492251
+Minimum lattice score: 18.0181993275  Maximum lattice score:  19.4899093721
+Average number of pins per assembly:  9Highest scoring Pin Lattice 
+0  
+0  0  
+0  7  3  
+0  0  0  2  
+0  2  1  1  0  
+0  0  2  0  0  0  
+0  0  2  0  0  0  7  
+0  2  4  0  3  2  2  3  
+0  0  2  0  2  3  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  2  6  
+0  0  4  8  
+0  0  8  2  0  
+0  5  5  0  0  0  
+0  0  0  0  0  3  3  
+0  1  2  7  2  7  2  5  
+0  0  7  0  3  2  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   18.9176920554
+Variance in lattice score:    0.266771736179
+Minimum lattice score: 18.0754883002  Maximum lattice score:  19.6890083307
+Average number of pins per assembly:  8Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  6  
+0  0  0  2  
+0  2  1  1  0  
+0  0  2  0  0  0  
+0  0  6  0  0  2  1  
+0  2  0  0  3  3  2  3  
+0  0  2  0  2  2  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  8  6  
+0  0  7  7  
+0  4  2  3  0  
+0  3  2  0  0  0  
+0  0  7  0  0  2  1  
+0  2  2  4  3  8  0  0  
+0  0  5  0  0  6  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.0318402598
+Variance in lattice score:    0.255635172609
+Minimum lattice score: 18.1138297253  Maximum lattice score:  19.6890083307
+Average number of pins per assembly:  8Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  6  
+0  0  0  2  
+0  2  1  1  0  
+0  0  2  0  0  0  
+0  0  6  0  0  2  1  
+0  2  0  0  3  3  2  3  
+0  0  2  0  2  2  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  6  4  
+0  0  3  5  
+0  7  3  4  0  
+0  5  2  0  0  0  
+0  0  1  0  0  0  2  
+0  2  7  3  3  7  2  3  
+0  0  1  0  2  1  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.1264643019
+Variance in lattice score:    0.237385532626
+Minimum lattice score: 18.1937275895  Maximum lattice score:  19.6890083307
+Average number of pins per assembly:  8Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  6  
+0  0  0  2  
+0  2  1  1  0  
+0  0  2  0  0  0  
+0  0  6  0  0  2  1  
+0  2  0  0  3  3  2  3  
+0  0  2  0  2  2  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  0  2  
+0  0  3  5  
+0  5  0  3  0  
+0  1  8  0  0  0  
+0  0  2  0  0  3  3  
+0  4  8  0  2  2  5  7  
+0  0  1  0  1  2  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.2163218387
+Variance in lattice score:    0.224448840992
+Minimum lattice score: 18.4192799522  Maximum lattice score:  19.7281237826
+Average number of pins per assembly:  8Highest scoring Pin Lattice 
+0  
+0  0  
+0  7  6  
+0  0  0  8  
+0  2  3  1  0  
+0  6  2  0  0  0  
+0  0  1  0  0  2  7  
+0  2  8  0  3  3  2  5  
+0  0  3  0  2  2  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  2  1  
+0  0  4  6  
+0  7  1  2  0  
+0  3  3  0  0  0  
+0  0  7  0  0  3  3  
+0  7  7  3  1  2  3  3  
+0  0  2  0  1  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.2926527197
+Variance in lattice score:    0.215639291287
+Minimum lattice score: 18.4849121124  Maximum lattice score:  19.7530839917
+Average number of pins per assembly:  8Highest scoring Pin Lattice 
+0  
+0  0  
+0  7  6  
+0  0  0  8  
+0  2  3  1  0  
+0  6  2  0  0  0  
+0  0  1  0  0  2  0  
+0  2  8  0  3  3  2  5  
+0  0  3  0  2  2  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  2  6  
+0  0  4  2  
+0  3  3  2  0  
+0  8  5  0  0  0  
+0  0  0  0  0  3  3  
+0  7  0  2  5  2  3  5  
+0  0  0  0  2  4  0  0  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.3414814184
+Variance in lattice score:    0.228608875373
+Minimum lattice score: 18.3587262976  Maximum lattice score:  19.7967402246
+Average number of pins per assembly:  8Highest scoring Pin Lattice 
+0  
+0  0  
+0  1  6  
+0  0  0  0  
+0  2  1  0  0  
+0  0  3  0  0  0  
+0  0  1  0  0  2  2  
+0  0  3  3  3  3  0  1  
+0  0  3  0  3  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  7  3  
+0  0  0  2  
+0  5  1  1  0  
+0  5  0  0  0  0  
+0  0  8  0  0  1  3  
+0  2  8  0  3  3  2  3  
+0  0  2  0  2  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.4009909672
+Variance in lattice score:    0.198924437466
+Minimum lattice score: 18.6858700843  Maximum lattice score:  19.869958734
+Average number of pins per assembly:  8Highest scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  0  0  
+0  0  0  1  0  
+0  0  3  0  0  0  
+0  0  2  0  0  0  3  
+0  0  0  0  3  2  2  2  
+0  0  1  0  2  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  2  6  
+0  0  4  2  
+0  7  3  2  0  
+0  3  5  0  0  0  
+0  0  0  0  0  3  0  
+0  2  7  3  3  7  3  8  
+0  0  0  0  1  0  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.4373633515
+Variance in lattice score:    0.206545378135
+Minimum lattice score: 18.4003613852  Maximum lattice score:  19.869958734
+Average number of pins per assembly:  7Highest scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  0  0  
+0  0  0  1  0  
+0  0  3  0  0  0  
+0  0  2  0  0  0  3  
+0  0  0  0  3  2  2  2  
+0  0  1  0  2  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  7  6  
+0  0  0  8  
+0  3  1  0  0  
+0  6  2  0  0  0  
+0  0  2  0  0  2  1  
+0  7  8  0  1  0  2  3  
+0  0  3  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.4782101841
+Variance in lattice score:    0.207626408916
+Minimum lattice score: 18.4661882408  Maximum lattice score:  19.9652951115
+Average number of pins per assembly:  7Highest scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  0  2  
+0  2  0  1  0  
+0  0  3  0  0  0  
+0  0  2  0  0  0  3  
+0  2  0  0  3  2  2  2  
+0  0  2  0  2  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  4  1  
+0  0  0  4  
+0  8  2  1  0  
+0  8  2  0  0  0  
+0  0  2  0  0  2  4  
+0  0  7  0  1  0  2  2  
+0  0  2  0  2  0  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.523944321
+Variance in lattice score:    0.207823579388
+Minimum lattice score: 18.4802274345  Maximum lattice score:  19.9652951115
+Average number of pins per assembly:  7Highest scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  0  2  
+0  2  0  1  0  
+0  0  3  0  0  0  
+0  0  2  0  0  0  3  
+0  2  0  0  3  2  2  2  
+0  0  2  0  2  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  7  4  
+0  0  4  6  
+0  0  1  1  0  
+0  5  2  0  0  0  
+0  0  2  0  0  0  0  
+0  3  8  2  3  3  2  3  
+0  0  3  0  0  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.5665638248
+Variance in lattice score:    0.215047084181
+Minimum lattice score: 18.5160567998  Maximum lattice score:  19.9652951115
+Average number of pins per assembly:  7Highest scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  0  2  
+0  2  0  1  0  
+0  0  3  0  0  0  
+0  0  2  0  0  0  3  
+0  2  0  0  3  2  2  2  
+0  0  2  0  2  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  7  6  
+0  0  4  4  
+0  0  1  1  0  
+0  0  8  0  0  0  
+0  0  1  0  0  0  7  
+0  2  8  2  3  2  0  2  
+0  0  3  0  3  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.6199664139
+Variance in lattice score:    0.180847403997
+Minimum lattice score: 18.9431613047  Maximum lattice score:  19.9652951115
+Average number of pins per assembly:  7Highest scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  0  2  
+0  2  0  1  0  
+0  0  3  0  0  0  
+0  0  2  0  0  0  3  
+0  2  0  0  3  2  2  2  
+0  0  2  0  2  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  7  6  
+0  0  0  2  
+0  2  4  1  0  
+0  0  2  0  0  0  
+0  0  8  0  0  2  1  
+0  2  0  0  3  2  2  3  
+0  0  2  0  2  2  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+special_protocal happened
+Average Lattice Cost:   19.7616542435
+Variance in lattice score:    0.151638386514
+Minimum lattice score: 19.3237734255  Maximum lattice score:  20.0498671151
+Average number of pins per assembly:  6Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  4  0  
+0  2  0  3  0  
+0  0  2  0  0  0  
+0  0  1  0  0  0  3  
+0  7  1  0  3  2  7  3  
+0  0  1  0  3  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.7461632168
+Variance in lattice score:    0.224417359613
+Minimum lattice score: 18.7684086352  Maximum lattice score:  20.0498671151
+Average number of pins per assembly:  6Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  7  6  
+0  0  0  8  
+0  2  2  1  0  
+0  6  2  0  0  0  
+0  0  1  0  0  2  6  
+0  2  0  0  3  1  2  5  
+0  0  3  0  2  2  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.7894358097
+Variance in lattice score:    0.208118783634
+Minimum lattice score: 18.9962742326  Maximum lattice score:  20.0498671151
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  0  2  
+0  2  2  1  0  
+0  0  3  0  0  0  
+0  0  7  0  0  0  3  
+0  8  2  0  6  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.8069041179
+Variance in lattice score:    0.20792831295
+Minimum lattice score: 18.9144646385  Maximum lattice score:  20.0498671151
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  6  
+0  0  4  8  
+0  2  0  1  0  
+0  8  2  0  0  0  
+0  0  1  0  0  0  1  
+0  2  8  0  3  2  2  2  
+0  0  3  0  2  3  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.8362961056
+Variance in lattice score:    0.209708899539
+Minimum lattice score: 19.1845142102  Maximum lattice score:  20.0498671151
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  7  6  
+0  0  0  8  
+0  3  2  1  0  
+0  6  2  0  0  0  
+0  0  1  0  0  2  0  
+0  7  8  0  4  3  2  5  
+0  0  3  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.8631111396
+Variance in lattice score:    0.212319096513
+Minimum lattice score: 18.9015398483  Maximum lattice score:  20.0587161158
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  3  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  7  0  0  0  3  
+0  2  2  0  3  1  2  2  
+0  0  8  0  2  7  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.8807721321
+Variance in lattice score:    0.195729671293
+Minimum lattice score: 18.9008907793  Maximum lattice score:  20.0587161158
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  3  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  7  3  
+0  0  0  2  
+0  2  7  1  0  
+0  0  3  0  0  0  
+0  0  2  0  0  0  1  
+0  4  0  0  3  2  2  2  
+0  0  1  0  2  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.8946924462
+Variance in lattice score:    0.195275809054
+Minimum lattice score: 19.1655809234  Maximum lattice score:  20.0640591961
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  0  3  
+0  2  2  3  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  0  2  
+0  2  0  1  0  
+0  0  3  0  0  0  
+0  0  2  0  0  0  3  
+0  7  2  0  3  2  2  1  
+0  0  0  0  4  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9318553836
+Variance in lattice score:    0.163802043379
+Minimum lattice score: 19.2231290458  Maximum lattice score:  20.0646135227
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  4  3  
+0  2  2  0  2  2  2  2  
+0  0  4  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9325089023
+Variance in lattice score:    0.181809346734
+Minimum lattice score: 19.1144547727  Maximum lattice score:  20.0646135227
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  0  2  
+0  2  0  1  0  
+0  0  3  0  0  0  
+0  0  2  0  0  0  3  
+0  2  0  0  3  6  2  2  
+0  0  4  0  2  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9326404523
+Variance in lattice score:    0.174476728147
+Minimum lattice score: 19.2299484316  Maximum lattice score:  20.0648351681
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  1  1  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  1  3  
+0  0  0  2  
+0  2  0  1  0  
+0  0  3  0  0  0  
+0  0  2  0  0  0  3  
+0  2  5  3  6  2  3  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9242533986
+Variance in lattice score:    0.197998841475
+Minimum lattice score: 19.2139968107  Maximum lattice score:  20.067270745
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  3  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  0  2  
+0  3  6  0  3  2  2  2  
+0  0  2  0  2  2  0  7  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9386842756
+Variance in lattice score:    0.185572588858
+Minimum lattice score: 19.2111741064  Maximum lattice score:  20.067270745
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  0  2  1  0  
+0  1  2  0  0  0  
+0  0  2  0  0  0  3  
+0  2  2  0  5  1  4  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9465134843
+Variance in lattice score:    0.185782202296
+Minimum lattice score: 19.2081585063  Maximum lattice score:  20.0780044834
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  1  3  
+0  2  2  0  3  6  2  2  
+0  0  4  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9615980482
+Variance in lattice score:    0.165052687999
+Minimum lattice score: 19.1850904936  Maximum lattice score:  20.0780044834
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  3  
+0  2  8  1  0  
+0  1  0  0  0  0  
+0  0  2  0  0  1  3  
+0  5  6  0  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9604910187
+Variance in lattice score:    0.187685465204
+Minimum lattice score: 19.15707259  Maximum lattice score:  20.0780044834
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  2  2  
+0  2  2  1  0  
+0  1  1  0  0  0  
+0  0  2  0  0  0  3  
+0  2  2  0  3  8  2  2  
+0  0  6  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9685165499
+Variance in lattice score:    0.173100595056
+Minimum lattice score: 19.183149305  Maximum lattice score:  20.081622891
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  5  3  0  7  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9449546891
+Variance in lattice score:    0.196396962138
+Minimum lattice score: 19.2359799379  Maximum lattice score:  20.081622891
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  1  0  
+0  1  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  3  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  3  3  4  2  2  
+0  0  1  0  2  2  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9816735101
+Variance in lattice score:    0.175892236393
+Minimum lattice score: 19.1602761116  Maximum lattice score:  20.0941324574
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  4  3  
+0  0  8  2  
+0  8  2  1  0  
+0  1  2  0  0  0  
+0  0  2  0  0  3  3  
+0  2  2  0  2  1  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9783591575
+Variance in lattice score:    0.168472912596
+Minimum lattice score: 19.2677596181  Maximum lattice score:  20.0941324574
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  1  2  0  0  0  
+0  0  2  0  0  0  2  
+0  2  2  0  3  1  2  1  
+0  0  2  0  6  4  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9727120341
+Variance in lattice score:    0.183241234888
+Minimum lattice score: 19.2451639555  Maximum lattice score:  20.0941324574
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  1  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  3  
+0  2  6  3  3  2  2  2  
+0  0  2  0  2  2  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9578016468
+Variance in lattice score:    0.196227752185
+Minimum lattice score: 19.2463293276  Maximum lattice score:  20.0941324574
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  1  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  2  0  0  4  3  
+0  2  3  3  2  1  2  2  
+0  0  2  0  6  0  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+special_protocal happened
+Average Lattice Cost:   19.988955938
+Variance in lattice score:    0.144547338338
+Minimum lattice score: 19.633050051  Maximum lattice score:  20.1026684926
+Average number of pins per assembly:  4Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  0  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  0  4  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9625133477
+Variance in lattice score:    0.202966600758
+Minimum lattice score: 19.2430078119  Maximum lattice score:  20.1026684926
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  0  3  2  2  2  
+0  0  2  0  2  6  0  7  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9508806882
+Variance in lattice score:    0.211039667793
+Minimum lattice score: 19.2341116778  Maximum lattice score:  20.1026684926
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  4  3  
+0  0  0  2  
+0  2  2  2  0  
+0  5  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  6  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9622000743
+Variance in lattice score:    0.203976325026
+Minimum lattice score: 18.8959645901  Maximum lattice score:  20.1026684926
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  3  0  0  0  
+0  0  2  0  0  8  3  
+0  2  2  5  3  2  2  2  
+0  0  2  0  2  2  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9627053816
+Variance in lattice score:    0.197791301061
+Minimum lattice score: 18.9615181452  Maximum lattice score:  20.1026684926
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  3  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  1  3  0  0  0  
+0  0  5  0  0  2  3  
+0  6  2  3  3  2  2  2  
+0  0  2  0  2  2  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9603200471
+Variance in lattice score:    0.200768112577
+Minimum lattice score: 19.1453432986  Maximum lattice score:  20.1026684926
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  6  4  
+0  1  2  3  0  2  2  2  
+0  0  8  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9565434104
+Variance in lattice score:    0.210290598964
+Minimum lattice score: 19.0183615675  Maximum lattice score:  20.1026684926
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  1  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  6  0  0  7  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  7  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9702742411
+Variance in lattice score:    0.195018048857
+Minimum lattice score: 19.2637450766  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  5  2  2  2  2  2  
+0  0  3  0  2  2  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9738972808
+Variance in lattice score:    0.193004220966
+Minimum lattice score: 19.2986940178  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  6  2  2  2  
+0  0  2  0  2  6  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9422117421
+Variance in lattice score:    0.230734138274
+Minimum lattice score: 18.9592204072  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  5  
+0  0  0  2  
+0  7  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  7  6  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9342867471
+Variance in lattice score:    0.225995594363
+Minimum lattice score: 19.0556430577  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  3  
+0  0  0  2  
+0  2  2  3  0  
+0  1  3  0  0  0  
+0  0  2  0  0  2  7  
+0  2  2  8  2  2  1  2  
+0  0  2  0  2  2  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+special_protocal happened
+Average Lattice Cost:   19.9918337864
+Variance in lattice score:    0.157054922794
+Minimum lattice score: 19.3295764601  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  1  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  8  2  2  5  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9413724716
+Variance in lattice score:    0.221679128807
+Minimum lattice score: 19.2388133219  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  3  2  2  2  
+0  0  6  0  2  7  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9367466748
+Variance in lattice score:    0.22791517297
+Minimum lattice score: 19.1973874959  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  0  
+0  0  6  0  2  2  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9328701402
+Variance in lattice score:    0.220397390987
+Minimum lattice score: 19.1496945177  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  2  2  
+0  0  0  2  
+0  2  2  0  0  
+0  3  2  0  0  0  
+0  0  2  0  0  4  3  
+0  2  7  3  2  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9382012485
+Variance in lattice score:    0.229609586931
+Minimum lattice score: 19.2283853664  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  5  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  8  
+0  7  2  1  2  2  2  2  
+0  0  2  0  2  6  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9247622463
+Variance in lattice score:    0.224852123547
+Minimum lattice score: 19.0773269932  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  7  2  
+0  0  0  2  
+0  2  2  2  0  
+0  7  2  0  0  0  
+0  0  4  0  0  2  3  
+0  2  2  0  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9402333383
+Variance in lattice score:    0.215184594659
+Minimum lattice score: 18.933920106  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  5  2  2  2  2  5  2  
+0  0  5  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9241915638
+Variance in lattice score:    0.223722727931
+Minimum lattice score: 18.9604246202  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  1  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  6  2  
+0  0  2  0  7  2  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9161573374
+Variance in lattice score:    0.234397911285
+Minimum lattice score: 18.9223080674  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  3  2  2  0  
+0  8  2  0  0  0  
+0  0  2  0  0  3  1  
+0  6  2  2  2  2  2  6  
+0  0  2  0  2  5  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9389756559
+Variance in lattice score:    0.223183738759
+Minimum lattice score: 19.0242171502  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  0  2  2  0  
+0  3  6  0  0  0  
+0  0  2  0  0  2  1  
+0  1  2  3  3  4  2  2  
+0  0  2  0  2  2  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.935047479
+Variance in lattice score:    0.218708898156
+Minimum lattice score: 19.2366592592  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  3  2  2  2  2  
+0  0  2  0  7  2  0  7  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9455921293
+Variance in lattice score:    0.216092467383
+Minimum lattice score: 19.2109652681  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  8  
+0  2  2  2  0  
+0  3  5  0  0  0  
+0  0  7  0  0  2  1  
+0  2  2  2  2  2  2  1  
+0  0  4  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9266961447
+Variance in lattice score:    0.241430211217
+Minimum lattice score: 18.8487551118  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  0  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  7  2  5  2  2  2  2  
+0  0  2  0  2  2  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9397502854
+Variance in lattice score:    0.208890353023
+Minimum lattice score: 19.1765078813  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  7  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  4  
+0  2  2  2  2  2  2  2  
+0  0  7  0  2  2  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9124844487
+Variance in lattice score:    0.243303324862
+Minimum lattice score: 19.004801186  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  8  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  1  1  
+0  2  2  2  7  2  2  2  
+0  0  2  0  6  2  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9193759782
+Variance in lattice score:    0.229555091529
+Minimum lattice score: 19.1397469537  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  5  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  4  2  2  2  2  
+0  0  2  0  2  4  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9407760863
+Variance in lattice score:    0.216759819828
+Minimum lattice score: 19.2434748596  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  6  
+0  0  0  2  
+0  2  2  2  0  
+0  6  4  0  0  0  
+0  0  2  0  0  6  1  
+0  2  2  0  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9411507629
+Variance in lattice score:    0.206108883037
+Minimum lattice score: 19.123832422  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  7  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  6  6  2  5  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9415928432
+Variance in lattice score:    0.224168812364
+Minimum lattice score: 19.121715811  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  6  2  2  4  
+0  0  2  0  2  6  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9309033942
+Variance in lattice score:    0.222078807166
+Minimum lattice score: 19.2441728019  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  8  3  2  2  
+0  0  2  0  2  3  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9386002032
+Variance in lattice score:    0.215959430534
+Minimum lattice score: 19.2584737718  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  5  0  
+0  3  2  0  0  0  
+0  0  8  0  0  2  2  
+0  4  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9335793551
+Variance in lattice score:    0.212936632095
+Minimum lattice score: 19.2731427333  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  4  1  
+0  2  2  2  2  2  2  1  
+0  0  2  0  2  2  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9368405842
+Variance in lattice score:    0.212894088653
+Minimum lattice score: 19.2187502129  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  5  0  
+0  3  2  0  0  0  
+0  0  4  0  0  2  2  
+0  2  0  2  2  2  2  2  
+0  0  2  0  2  8  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9339274943
+Variance in lattice score:    0.210718249529
+Minimum lattice score: 19.248175418  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  3  1  2  2  2  
+0  0  2  0  2  4  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9354999968
+Variance in lattice score:    0.218411885036
+Minimum lattice score: 19.2048562263  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  1  2  3  
+0  0  5  0  2  2  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9553969855
+Variance in lattice score:    0.21081270468
+Minimum lattice score: 19.2055323363  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  0  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  3  2  
+0  0  2  0  6  2  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9619585872
+Variance in lattice score:    0.195837359628
+Minimum lattice score: 19.2291542937  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  1  
+0  0  2  0  4  2  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9551084352
+Variance in lattice score:    0.208471351302
+Minimum lattice score: 19.3179173057  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  3  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  4  2  2  
+0  0  2  0  7  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9564474921
+Variance in lattice score:    0.206781270346
+Minimum lattice score: 19.1695768672  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  2  2  3  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  7  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  7  2  2  
+0  0  2  0  2  4  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9416973078
+Variance in lattice score:    0.215546078383
+Minimum lattice score: 19.2048562263  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  8  0  2  0  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9574918379
+Variance in lattice score:    0.208352961767
+Minimum lattice score: 19.2545351014  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  4  2  2  2  2  
+0  0  2  0  2  2  0  7  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9569732573
+Variance in lattice score:    0.216307056301
+Minimum lattice score: 19.2087622826  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  6  2  0  0  0  
+0  0  2  0  0  1  2  
+0  2  4  2  2  4  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9485993475
+Variance in lattice score:    0.225678750946
+Minimum lattice score: 18.9987038828  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  6  3  
+0  8  2  2  4  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9405343241
+Variance in lattice score:    0.225234942833
+Minimum lattice score: 18.9687986889  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  1  2  
+0  0  6  2  
+0  2  2  2  0  
+0  5  3  0  0  0  
+0  0  2  0  0  3  0  
+0  2  2  6  2  2  2  3  
+0  0  8  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9302579027
+Variance in lattice score:    0.227986882057
+Minimum lattice score: 19.0976215553  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  7  4  4  2  2  2  
+0  0  2  0  2  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9342627556
+Variance in lattice score:    0.235119922239
+Minimum lattice score: 19.2059443335  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  5Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  5  3  0  0  0  
+0  0  2  0  0  7  3  
+0  2  2  4  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9685732818
+Variance in lattice score:    0.204412495656
+Minimum lattice score: 19.2811857394  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  4Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  3  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  8  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  3  2  
+0  2  2  2  2  2  6  2  
+0  0  2  0  7  3  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9739679163
+Variance in lattice score:    0.210576021292
+Minimum lattice score: 18.8919876246  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  4Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  4  1  
+0  2  2  2  2  2  2  2  
+0  0  4  0  6  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.944365983
+Variance in lattice score:    0.229098413482
+Minimum lattice score: 19.0494736512  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  4Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  2  2  2  3  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  1  0  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  7  
+0  2  2  2  2  3  2  2  
+0  0  2  0  8  2  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+
+Average Lattice Cost:   19.9403293873
+Variance in lattice score:    0.221785868173
+Minimum lattice score: 19.2470097189  Maximum lattice score:  20.1112151358
+Average number of pins per assembly:  4Highest scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  1  
+0  2  2  2  2  2  2  2  
+0  0  2  0  2  2  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+Worst Scoring Pin Lattice 
+0  
+0  0  
+0  3  2  
+0  0  0  2  
+0  2  2  2  0  
+0  3  2  0  0  0  
+0  0  2  0  0  2  2  
+0  2  2  7  2  2  2  3  
+0  0  2  0  2  2  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+
+
+

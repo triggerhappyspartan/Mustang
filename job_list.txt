@@ -1,0 +1,10 @@
+Job ID                    Name             User            Time Use S Queue
+------------------------- ---------------- --------------- -------- - -----
+59633.rdfmg                Mustang_Main     bdander3        19:01:33 R shortq         
+60585.rdfmg                STDIN            dsziyad         00:00:00 R shortq         
+60750.rdfmg                STDIN            atezbas         00:00:00 R shortq         
+60825[].rdfmg              Mustang_96       bdander3               0 C shortq         
+60826[].rdfmg              Mustang_96       bdander3               0 C shortq         
+60827[].rdfmg              Mustang_97       bdander3               0 C shortq         
+60828[].rdfmg              Mustang_97       bdander3               0 C shortq         
+60829[].rdfmg              Mustang_97       bdander3               0 C shortq         

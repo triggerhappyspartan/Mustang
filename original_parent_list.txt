@@ -1,0 +1,448 @@
+Assembly
+0  
+0  0  
+0  6  1  
+0  0  2  6  
+0  1  6  1  0  
+0  3  1  0  0  0  
+0  0  6  0  0  3  6  
+0  6  3  5  6  6  1  1  
+0  0  3  0  0  0  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.3291987192
+
+Assembly
+0  
+0  0  
+0  4  2  
+0  0  3  2  
+0  2  1  1  0  
+0  1  1  0  0  0  
+0  0  6  0  0  3  1  
+0  6  2  4  2  1  6  2  
+0  0  3  0  6  2  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.785522118
+
+Assembly
+0  
+0  0  
+0  3  2  
+0  0  2  2  
+0  1  2  2  0  
+0  1  3  0  0  0  
+0  0  0  0  0  2  6  
+0  3  2  1  2  4  5  5  
+0  0  1  0  6  6  0  0  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  18.4466230454
+
+Assembly
+0  
+0  0  
+0  3  3  
+0  0  5  2  
+0  2  3  4  0  
+0  2  4  0  0  0  
+0  0  2  0  0  5  3  
+0  5  2  4  2  2  2  4  
+0  0  0  0  3  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  18.0840334702
+
+Assembly
+0  
+0  0  
+0  4  3  
+0  0  3  1  
+0  1  1  1  0  
+0  1  3  0  0  0  
+0  0  3  0  0  2  2  
+0  1  4  1  5  1  1  1  
+0  0  3  0  2  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.8459247244
+
+Assembly
+0  
+0  0  
+0  6  1  
+0  0  4  6  
+0  2  3  0  0  
+0  6  0  0  0  0  
+0  0  3  0  0  3  3  
+0  4  3  4  0  4  5  5  
+0  0  3  0  4  6  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  16.6682539776
+
+Assembly
+0  
+0  0  
+0  3  1  
+0  0  5  4  
+0  2  4  1  0  
+0  4  2  0  0  0  
+0  0  2  0  0  3  5  
+0  4  4  2  0  4  4  2  
+0  0  1  0  4  5  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.6105840149
+
+Assembly
+0  
+0  0  
+0  5  5  
+0  0  1  1  
+0  1  3  0  0  
+0  0  0  0  0  0  
+0  0  1  0  0  0  1  
+0  5  1  3  5  1  1  5  
+0  0  5  0  5  5  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  18.0341354755
+
+Assembly
+0  
+0  0  
+0  0  0  
+0  0  2  2  
+0  4  1  2  0  
+0  1  5  0  0  0  
+0  0  2  0  0  3  0  
+0  0  4  4  2  4  2  0  
+0  0  0  0  3  0  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  18.0737559673
+
+Assembly
+0  
+0  0  
+0  3  5  
+0  0  3  3  
+0  6  4  4  0  
+0  6  5  0  0  0  
+0  0  5  0  0  1  5  
+0  6  6  6  5  6  4  5  
+0  0  6  0  6  6  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  16.6274884207
+
+Assembly
+0  
+0  0  
+0  6  3  
+0  0  0  3  
+0  5  4  3  0  
+0  3  4  0  0  0  
+0  0  2  0  0  6  2  
+0  2  2  5  3  6  3  6  
+0  0  2  0  5  2  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.2051216378
+
+Assembly
+0  
+0  0  
+0  3  2  
+0  0  6  4  
+0  3  0  6  0  
+0  6  4  0  0  0  
+0  0  6  0  0  5  2  
+0  3  5  6  5  5  4  2  
+0  0  2  0  3  4  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  16.8469151906
+
+Assembly
+0  
+0  0  
+0  0  5  
+0  0  5  5  
+0  0  2  0  0  
+0  2  2  0  0  0  
+0  0  2  0  0  1  0  
+0  0  5  5  2  4  0  1  
+0  0  1  0  1  1  0  0  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  18.895649728
+
+Assembly
+0  
+0  0  
+0  3  5  
+0  0  6  6  
+0  5  3  0  0  
+0  2  0  0  0  0  
+0  0  6  0  0  6  5  
+0  6  5  1  1  3  4  0  
+0  0  5  0  2  2  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.4893557539
+
+Assembly
+0  
+0  0  
+0  2  2  
+0  0  6  1  
+0  4  6  2  0  
+0  1  0  0  0  0  
+0  0  6  0  0  2  6  
+0  1  3  4  2  3  4  4  
+0  0  6  0  2  3  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.5452384076
+
+Assembly
+0  
+0  0  
+0  5  0  
+0  0  2  2  
+0  6  1  6  0  
+0  0  2  0  0  0  
+0  0  6  0  0  1  6  
+0  0  1  6  4  2  6  6  
+0  0  4  0  4  0  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.7831456866
+
+Assembly
+0  
+0  0  
+0  4  1  
+0  0  5  3  
+0  1  4  5  0  
+0  2  1  0  0  0  
+0  0  5  0  0  4  3  
+0  1  3  5  3  2  1  3  
+0  0  0  0  5  1  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.6220950391
+
+Assembly
+0  
+0  0  
+0  4  0  
+0  0  6  6  
+0  3  3  5  0  
+0  5  0  0  0  0  
+0  0  0  0  0  0  1  
+0  3  3  6  3  5  0  3  
+0  0  0  0  6  3  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.7185765349
+
+Assembly
+0  
+0  0  
+0  0  5  
+0  0  1  2  
+0  0  6  0  0  
+0  4  4  0  0  0  
+0  0  5  0  0  0  4  
+0  0  5  4  0  0  0  1  
+0  0  6  0  6  0  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.7633735449
+
+Assembly
+0  
+0  0  
+0  4  3  
+0  0  3  4  
+0  4  2  2  0  
+0  4  1  0  0  0  
+0  0  2  0  0  6  1  
+0  1  4  0  1  0  4  4  
+0  0  3  0  2  2  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  18.5284098397
+
+Assembly
+0  
+0  0  
+0  6  5  
+0  0  2  3  
+0  6  5  0  0  
+0  2  6  0  0  0  
+0  0  6  0  0  3  3  
+0  6  6  2  6  5  3  6  
+0  0  3  0  2  3  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.0340180238
+
+Assembly
+0  
+0  0  
+0  4  0  
+0  0  3  4  
+0  2  5  0  0  
+0  2  2  0  0  0  
+0  0  5  0  0  0  0  
+0  5  2  4  0  5  5  1  
+0  0  5  0  5  2  0  0  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.6954513924
+
+Assembly
+0  
+0  0  
+0  3  2  
+0  0  3  4  
+0  1  6  4  0  
+0  5  1  0  0  0  
+0  0  5  0  0  5  1  
+0  3  3  6  6  5  4  5  
+0  0  1  0  5  6  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.2933893629
+
+Assembly
+0  
+0  0  
+0  2  4  
+0  0  4  0  
+0  6  0  5  0  
+0  2  5  0  0  0  
+0  0  1  0  0  6  1  
+0  1  1  5  2  3  2  2  
+0  0  1  0  2  1  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  18.4222785966
+
+Assembly
+0  
+0  0  
+0  1  3  
+0  0  0  0  
+0  1  0  1  0  
+0  3  1  0  0  0  
+0  0  5  0  0  0  5  
+0  2  1  4  1  1  4  0  
+0  0  5  0  4  2  0  5  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.6100514595
+
+Assembly
+0  
+0  0  
+0  4  2  
+0  0  1  3  
+0  2  2  3  0  
+0  6  1  0  0  0  
+0  0  4  0  0  3  4  
+0  4  1  6  6  4  0  4  
+0  0  3  0  4  3  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  16.8209219107
+
+Assembly
+0  
+0  0  
+0  6  1  
+0  0  6  6  
+0  6  1  6  0  
+0  4  1  0  0  0  
+0  0  1  0  0  6  2  
+0  6  6  0  6  0  5  2  
+0  0  1  0  2  1  0  1  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.5505547758
+
+Assembly
+0  
+0  0  
+0  6  1  
+0  0  3  3  
+0  5  5  5  0  
+0  2  1  0  0  0  
+0  0  4  0  0  5  0  
+0  1  3  3  2  1  1  0  
+0  0  5  0  2  0  0  2  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.3973753885
+
+Assembly
+0  
+0  0  
+0  3  3  
+0  0  1  0  
+0  0  3  2  0  
+0  6  2  0  0  0  
+0  0  1  0  0  2  2  
+0  0  5  4  1  1  6  3  
+0  0  5  0  2  3  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  18.1718064164
+
+Assembly
+0  
+0  0  
+0  3  3  
+0  0  3  4  
+0  4  2  3  0  
+0  1  2  0  0  0  
+0  0  3  0  0  0  4  
+0  2  4  2  4  4  3  2  
+0  0  2  0  3  4  0  4  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.6663779476
+
+Assembly
+0  
+0  0  
+0  3  6  
+0  0  1  1  
+0  0  5  5  0  
+0  6  3  0  0  0  
+0  0  3  0  0  3  4  
+0  1  3  6  1  3  4  6  
+0  0  6  0  1  6  0  0  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.5400240408
+
+Assembly
+0  
+0  0  
+0  2  6  
+0  0  0  6  
+0  6  3  5  0  
+0  6  5  0  0  0  
+0  0  6  0  0  1  1  
+0  2  2  5  6  6  2  2  
+0  0  2  0  6  2  0  3  0  
+0  0  0  0  0  0  0  0  0  0  
+What Happened: Original_file
+Assembly_Cost:  17.6954370678
+

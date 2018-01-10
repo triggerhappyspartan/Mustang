@@ -1,0 +1,16 @@
+#! /bin/sh
+#
+#PBS -N Mustang_Main
+#PBS -e error.dat
+#PBS -o info.dat
+#PBS -q default
+#PBS -l nodes=1:ppn=1
+
+#
+cd $PBS_O_WORKDIR
+date
+echo "starting job..."
+
+ls
+
+python mustang.py

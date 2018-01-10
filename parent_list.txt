@@ -1,0 +1,2688 @@
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  1  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5117151509
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  10 2  
+0  0  2  7  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  9  2  2  2  2  3  
+0  0  2  0  3  0  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4888882626
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  7  0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5162173934
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5198341515
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  11 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  9  0  0  3  2  
+0  2  13 2  2  2  2  0  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4967576935
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  7  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5122146916
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 5  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  17.7361005004
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  15 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  6  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  18.5147802268
+
+Assembly
+0  
+0  0  
+0  10 2  
+0  0  2  11 
+0  10 2  2  0  
+0  2  7  0  0  0  
+0  0  13 0  0  2  2  
+0  2  15 2  2  2  2  3  
+0  0  2  0  3  0  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.4967576935
+
+Assembly
+0  
+0  0  
+0  12 2  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  14 
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5117151509
+
+Assembly
+0  
+0  0  
+0  12 2  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5216467829
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  1  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  10 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  11 1  
+0  0  2  6  
+0  10 3  2  0  
+0  2  11 0  0  0  
+0  0  11 0  0  3  2  
+0  2  13 2  2  2  2  0  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4876695138
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  7  2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 2  
+0  0  2  12 
+0  10 3  2  0  
+0  0  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4665504025
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  7  3  2  0  
+0  2  13 0  0  0  
+0  0  6  0  0  3  2  
+0  2  10 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.4876695138
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5198341515
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  15 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  10 2  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  15 2  2  2  2  0  
+0  0  2  0  2  2  0  7  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4925679979
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  10 
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  17.9469174597
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  5  0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5047881915
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  1  
+0  0  2  0  2  2  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 2  
+0  0  2  12 
+0  10 3  2  0  
+0  2  8  0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5198341515
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5120492321
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5113014638
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  9  3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  18.8433879157
+
+Assembly
+0  
+0  0  
+0  5  1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4967576935
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  6  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5162173934
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  7  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5004417888
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  6  0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 3  
+0  0  2  11 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  0  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  1  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4888882626
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 8  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.441987208
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  1  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4902293853
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  6  0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5009500311
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  11 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  9  2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.5024998495
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  11 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4996051968
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 13 2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  18.0027874114
+
+Assembly
+0  
+0  0  
+0  12 3  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  1  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 7  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  17.9037813014
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  11 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  1  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.508616092
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5113014638
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  13 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  18.9679181071
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  1  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  11 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5083798397
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  9  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  18.5786635319
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5071025979
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5120492321
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5095650064
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  3  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5113014638
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  1  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  7  2  2  2  2  0  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5071025979
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  14 3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4885107971
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  12 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5162173934
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  7  0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5126537852
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  14 13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4109575942
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  9  2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  9  2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  0  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4968190642
+
+Assembly
+0  
+0  0  
+0  4  1  
+0  0  2  10 
+0  4  3  2  0  
+0  2  7  0  0  0  
+0  0  6  0  0  3  2  
+0  2  9  15 0  2  2  3  
+0  0  2  0  2  2  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  16.0875139792
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  3  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5034148115
+
+Assembly
+0  
+0  0  
+0  11 1  
+0  0  2  6  
+0  10 3  2  0  
+0  2  4  0  0  0  
+0  0  12 0  0  3  2  
+0  2  8  2  2  2  2  0  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4682930967
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  1  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  6  0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.490626791
+
+Assembly
+0  
+0  0  
+0  11 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  0  
+0  0  2  0  2  0  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4888882626
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  4  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4940436684
+
+Assembly
+0  
+0  0  
+0  7  1  
+0  0  2  7  
+0  10 3  3  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  4  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  15.4803193794
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  6  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  1  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  0  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  11 
+0  10 3  3  0  
+0  2  13 0  0  0  
+0  0  11 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4773547886
+
+Assembly
+0  
+0  0  
+0  15 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  11 0  0  3  1  
+0  2  13 2  2  2  2  0  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4888882626
+
+Assembly
+0  
+0  0  
+0  10 2  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  15 2  2  2  2  2  
+0  0  2  0  2  2  0  7  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4967576935
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  4  1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 3  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5117151509
+
+Assembly
+0  
+0  0  
+0  12 0  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  3  
+0  2  12 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.4930756386
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  1  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.5125082914
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  11 
+0  10 2  2  0  
+0  2  7  0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.5117151509
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  3  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  6  0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.512391225
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  10 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4955375009
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  4  
+0  6  2  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  1  2  
+0  2  8  2  2  2  2  2  
+0  0  2  0  2  14 0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4512926452
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  3  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5083249145
+
+Assembly
+0  
+0  0  
+0  5  1  
+0  0  2  12 
+0  12 3  2  0  
+0  2  13 0  0  0  
+0  0  8  0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4955375009
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  12 3  3  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  1  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5021364813
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  14 2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4801234738
+
+Assembly
+0  
+0  0  
+0  12 15 
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4463779215
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  15 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  11 0  0  1  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5034148115
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  3  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  12 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  15 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  18.8908826227
+
+Assembly
+0  
+0  0  
+0  12 0  
+0  0  1  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  0  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4852105638
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  2  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  17.725179174
+
+Assembly
+0  
+0  0  
+0  10 2  
+0  0  2  11 
+0  10 2  2  0  
+0  2  7  0  0  0  
+0  0  13 0  0  3  2  
+0  2  15 2  2  2  2  3  
+0  0  2  0  3  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 2  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5216467829
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  8  2  2  2  2  2  
+0  0  2  0  2  0  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4896599953
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 14 2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4798108319
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  3  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  6  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4810281398
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  3  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5198341515
+
+Assembly
+0  
+0  0  
+0  12 3  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  9  0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  3  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  7  0  0  3  2  
+0  2  8  2  2  2  2  3  
+0  0  2  0  2  14 0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.4719614371
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  1  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  0  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4888882626
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5120492321
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  1  2  2  0  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4967576935
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  0  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4967576935
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  7  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  7  0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  11 3  2  0  
+0  2  13 0  0  0  
+0  0  9  0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  18.9825433432
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  7  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  17.3797923907
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  14 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  17.7936086021
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5198341515
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  0  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  7  0  0  3  2  
+0  2  13 14 2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  18.0975683011
+
+Assembly
+0  
+0  0  
+0  11 1  
+0  0  2  6  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  0  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4955375009
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  12 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  0  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4987630143
+
+Assembly
+0  
+0  0  
+0  12 2  
+0  0  2  9  
+0  11 3  0  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  15 
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  18.5511224886
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  4  1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  11 0  0  3  2  
+0  2  9  2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4930756386
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  3  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5034148115
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  1  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5117151509
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  11 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  0  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  1  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.49922092
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  1  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  4  1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  9  0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  3  2  0  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4798108319
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  6  0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  14 0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4798108319
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  4  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  9  0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4955375009
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  14 0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4825130609
+
+Assembly
+0  
+0  0  
+0  12 9  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.444298037
+
+Assembly
+0  
+0  0  
+0  12 2  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  11 2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  15.8718252348
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  15 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  11 
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  18.5213239313
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  1  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.508616092
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  1  
+0  0  2  0  2  1  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4967576935
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5120492321
+
+Assembly
+0  
+0  0  
+0  7  1  
+0  0  2  6  
+0  10 3  2  0  
+0  2  11 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5120492321
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5113014638
+
+Assembly
+0  
+0  0  
+0  12 2  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5216467829
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  6  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  17.3389605585
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  7  3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  18.9737046483
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  12 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  4  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  17.881999784
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5198341515
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  3  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  15 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  5  1  
+0  0  2  9  
+0  12 3  2  0  
+0  2  13 0  0  0  
+0  0  8  0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.4967576935
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  2  0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  16.199082776
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5198341515
+
+Assembly
+0  
+0  0  
+0  7  1  
+0  0  2  10 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  6  0  0  2  3  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  4  3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  18.9998242769
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  6  0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5034148115
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  3  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4967576935
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5113014638
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  15 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  3  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  11 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  11 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  1  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  0  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4955375009
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  9  0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  14 0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4731773069
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5198341515
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  11 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  13 2  3  
+0  0  2  0  2  3  0  15 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Double_Mutation
+Lattice_Cost:  15.9833777087
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  14 0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4861074136
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  8  3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  18.8745139608
+
+Assembly
+0  
+0  0  
+0  7  1  
+0  0  2  6  
+0  10 3  2  0  
+0  2  11 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.4967576935
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  1  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  1  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4888882626
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  9  2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5113014638
+
+Assembly
+0  
+0  0  
+0  10 2  
+0  0  2  15 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  15 2  2  2  2  1  
+0  0  2  0  3  2  0  9  0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5034148115
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  8  2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5034148115
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 12 2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  17.8163671736
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  5  0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5047881915
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  11 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5071025979
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  1  9  
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  2  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5046364506
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  6  
+0  10 3  2  0  
+0  2  11 0  0  0  
+0  0  13 0  0  3  2  
+0  2  9  2  2  14 2  0  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.4695082947
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  12 
+0  10 3  2  0  
+0  2  13 0  0  0  
+0  0  13 0  0  2  0  
+0  2  13 2  2  2  2  3  
+0  0  2  0  2  2  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Single_Mutation
+Lattice_Cost:  19.5125245523
+
+Assembly
+0  
+0  0  
+0  12 1  
+0  0  2  9  
+0  12 3  3  0  
+0  2  13 0  0  0  
+0  0  13 0  0  3  2  
+0  2  13 2  2  2  2  2  
+0  0  2  0  2  3  0  13 0  
+0  0  0  0  0  0  0  0  0  0  
+What_Happened: Pin_Swap_Crossover
+Lattice_Cost:  19.5083798397
+

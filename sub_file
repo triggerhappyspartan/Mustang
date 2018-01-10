@@ -1,0 +1,24 @@
+#! /bin/sh
+#
+#PBS -N Mustang_97
+#PBS -e error.dat
+#PBS -o info.dat
+#PBS -q default
+#PBS -l nodes=1:ppn=20
+#PBS -t 1-16
+
+#
+cd $PBS_O_WORKDIR
+date
+echo "starting job..."
+
+ls
+
+casmo4e -r batch_4.lower_assembly.$PBS_ARRAYID.inp
+
+casmo4e -r batch_4.lower_top.$PBS_ARRAYID.inp
+
+casmo4e -r batch_4.upper_assembly.$PBS_ARRAYID.inp
+
+casmo4e -r batch_4.upper_top.$PBS_ARRAYID.inp
+

@@ -1,0 +1,11 @@
+generation             96
+lambda                 0.990693669027
+mutation_rate          0.697181874298
+population             200
+batch_size             16
+input_file             input_data.txt
+lower_file             lower_guide_assembly.inp
+upper_file             upper_guide_assembly.inp
+final_generation       97
+lower_skip             52
+upper_skip             61

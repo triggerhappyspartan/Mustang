@@ -1,0 +1,27 @@
+*FILES USED IN RUN   * * * * * * * * * * * * * * * * * * * * * * * *  1  7
+ *INPUT FILE                    temp.inp
+ *OUTPUT LIST FILE              ./temp.out
+ *CARD IMAGE FILE (SEG1)        ./temp.cax
+ *RESTART FILE (SEG1)           ./temp.res
+ *NEUTRON DATA LIBRARY          /cm/shared/apps/ncsu/CasmoSimulate/lib/studsvik/casmo4e/e60200
+ *GAMMA DATA LIBRARY            /cm/shared/apps/ncsu/CasmoSimulate/lib/studsvik/casmo4e/galb418
+ *EXECUTABLE                    /cm/shared/apps/ncsu/CasmoSimulate/libexec/studsvik/casmo4e/casmo4e-u1.00.02/casmo4e.exe
+*CASMO INPUT ECHO  * * * * * * * * * * * * * * * * * * * * * * * * *  1  7
+ TTL * EX 2.2
+ FIL 'lower_guide_assembly.res'
+ RES,'EX21', 0.5 1 1.5 2 2.5 3 3.5 4. 4.5 5. 5.5 6. 6.5 7. 7.5 8. 8.5 9. 9.5 10. 10.5 11. 11.5 12. 12.5 13.
+ 13.5 14. 14.5 15. 15.5 16. 16.5 17. 17.5 18. 18.5 19. 19.5 20. 22.5 22.5 27.5 30.
+ VOI=0 40 70
+ NLI, STA
+ END
+INP * * * * * * * * * * * * * *  I N P U T  D A T A  * * * * * * * * * *
+*I TTL * EX 2.2                                                                                                            
+*I FIL 'lower_guide_assembly.res'                                                                                          
+*I RES,'EX21', 0.5 1 1.5 2 2.5 3 3.5 4. 4.5 5. 5.5 6. 6.5 7. 7.5 8. 8.5 9. 9.5 10. 10.5 11. 11.5 12. 12.5 13.              
+*I 13.5 14. 14.5 15. 15.5 16. 16.5 17. 17.5 18. 18.5 19. 19.5 20. 22.5 22.5 27.5 30.                                       
+*I VOI=0 40 70                                                                                                             
+ERR                                                                      0  2  1
+        [FATAL ERROR] IN RES_INP
+ Check card *RES* Password=EX21/*/* not found on restart file.
+TER                                                                      1  1  0
+ *  CASMO-4E U S E R  A B O R T  *

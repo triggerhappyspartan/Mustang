@@ -1,0 +1,50 @@
+How to make rod types: Rod Type, Lower Pin Type, Upper Pin Type
+
+Each rod type must begin with the indicator *rod*.
+THe layout of the pin map is marked with the pin_map card. 
+Lattice locations are marked with the Lattice_position card.
+
+number_of_regions = 7
+number_of_axial_zones = 2
+
+Card  Lattice Lower    Upper    Rod   Enrichment 
+type  zone    Lattice  Lattice  Count
+
+rod     1       3         3       0   3.95
+rod     1       4         4       1   4.40
+rod     1       6         6       2   4.90
+rod     1      13        13       3   4.60:q
+rod     1       8         8       4
+rod     1       9         9       5
+rod     1      10        10       6
+rod     1      12        12       7
+rod     1      14        14       8
+rod     1      15        15       9
+rod     1      18        18
+rod     1      17        17
+rod     1      19        19
+rod     1      11        11
+rod     1       2         2
+rod     1      16        16      10
+rod     2       1         1   
+rod     3       2         2
+rod     4       3         3
+rod     5       4         4
+rod     6       5         5
+rod     7       6         6
+
+pin_map 2
+pin_map 3 6
+pin_map 4 1 1
+pin_map 5 7 1 1
+pin_map 5 1 1 1 7
+pin_map 5 1 1 0 0 7
+pin_map 4 7 1 0 0 1 1
+pin_map 6 1 1 1 1 1 1 1
+pin_map 3 5 1 7 1 1 7 1 7 
+pin_map 2 3 5 7 7 7 7 7 5 3
+
+Lattice_position 8
+Lattice_position 70
+Lattice_position 71
+Lattice_position 140
